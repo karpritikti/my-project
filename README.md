@@ -1,2 +1,2 @@
 # my-project
-This is my YBI FOUNDATION project using machine learning
+This is my YBI FOUNDATION project on Milage prediction using machine learning
